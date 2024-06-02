@@ -1,4 +1,4 @@
-My first readme
+Homework Week 5
 
 'git init' creates a git repositiory in your current folder
 
