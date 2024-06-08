@@ -9,3 +9,5 @@ Homework Week 5
 'git clone' will clone a local repository into a new remote repository
 
 'git push' pushes local repository and files to the remote location, which is called origin
+
+`git log` shows a log of all git commits in current repo and branch
